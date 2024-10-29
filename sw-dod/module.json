@@ -106,5 +106,11 @@
   ],
   "url": "https://github.com/Jvovillia/sw-dod",
   "manifest": "https://github.com/Jvovillia/sw-dod/releases/latest/download/module.json",
-  "download": "https://github.com/Jvovillia/sw-dod/releases/download/1.1.0/module.zip",
+  "download": "https://github.com/Jvovillia/sw-dod/releases/download/dod/sw-dod.zip",
+  "license": "LICENSE",
+  "readme": "README.md",
+  "media": [
+    ]
+  ],
+}
 }
